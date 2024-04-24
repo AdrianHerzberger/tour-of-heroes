@@ -4,7 +4,8 @@ import { DashboardRoutingModule } from './dashboard-routing.module';
 import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
-  declarations: [],
+  declarations: [
+  ],
   imports: [
     CommonModule,
     HttpClientModule,
